@@ -76,3 +76,7 @@
 <img src="https://raw.githubusercontent.com/dnrfaqh/dnrfaqh/output/snake.svg" alt="Snake animation" />
 
 ###
+
+---
+
+<p align="center"><i>"Still learning, still building, still renaming variables until something works."</i></p>
