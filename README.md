@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/danur-faqih" target="_blank">
+  <a href="https://www.linkedin.com/in/danur-faqih" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="faqihdanur23@gmail.com" target="_blank">
+  <a href="mailto:faqihdanur23@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -60,7 +60,11 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I’m Danur Faqih, an Informatics Student from Indonesia who loves turning ideas into interfaces.  <br>Sometimes I fix bugs. Other times, I just rename variables and hope it works.  <br>Currently learning how to balance front-end dev, IoT projects, and enough sleep.</p>
+<p align="left">
+  I’m Danur Faqih, an Informatics student from Indonesia who enjoys turning caffeine into code and problems into solutions. <br>
+  Sometimes I solve bugs, other times they mysteriously disappear after a restart.<br>
+  Currently balancing front-end development, IoT tinkering, and enough sleep to stay human.
+</p>
 
 ###
 
@@ -88,7 +92,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 GitHub Stats :</h3>
 
 ###
 
@@ -101,3 +105,7 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/dnrfaqh/dnrfaqh/output/snake.svg" alt="Snake animation" />
 
 ###
+
+---
+
+<p align="center"><i>"Still learning, still building, still renaming variables until something works."</i></p>
